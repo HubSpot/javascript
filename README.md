@@ -1,4 +1,5 @@
-### Project moved to [HubSpot/eslint-config](https://github.com/HubSpot/eslint-config)
+## Project moved to [HubSpot/eslint-config](https://github.com/HubSpot/eslint-config). Both repos are archived in favor of an internal version of our ESLint config
+
 
 # HubSpot JavaScript Style Guide() {
 
